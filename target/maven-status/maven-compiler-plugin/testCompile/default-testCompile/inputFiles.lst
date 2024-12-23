@@ -1,0 +1,5 @@
+/var/lib/jenkins/workspace/kube_CICD/src/test/java/com/mydemo/utilities/TestLogger.java
+/var/lib/jenkins/workspace/kube_CICD/src/test/java/com/mydemo/utilities/TestHexAsciiConversion.java
+/var/lib/jenkins/workspace/kube_CICD/src/test/java/com/mydemo/utilities/UnitDTO.java
+/var/lib/jenkins/workspace/kube_CICD/src/test/java/com/mydemo/utilities/ExceptionThrower.java
+/var/lib/jenkins/workspace/kube_CICD/src/test/java/com/mydemo/utilities/TestGenericComparator.java

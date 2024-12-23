@@ -17,7 +17,7 @@ spec:
         app: mongodb
     spec:
       containers:
-       - image: nibha2904/test
+       - image: nibha2904/test:6
          name: mongo
 
 ---
@@ -49,7 +49,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: nibha2904/test
+      - image: nibha2904/test:6
         name: springboot-app
 
 ---
